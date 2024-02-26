@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+
+.title{
+    font-family: "Alata", sans-serif;
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: white;
+}
